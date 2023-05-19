@@ -1,14 +1,14 @@
-class Customer                                  // 1
+class Customer                                  
 
-class Contact(val id: Int, var email: String)   // 2
+class Contact(val id: Int, var email: String)   
 
 fun main() {
 
-    val customer = Customer()                   // 3
+    val customer = Customer()                   
     
-    val contact = Contact(1, "mary@gmail.com")  // 4
+    val contact = Contact(1, "mary@gmail.com") 
 
     println(contact.id) 
-    println(contact.email)                          // 5
-    contact.email = "jane@gmail.com"            // 6
+    println(contact.email)                          
+    contact.email = "jane@gmail.com"            
 }
