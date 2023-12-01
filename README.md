@@ -1,2 +1,2 @@
 # Dominando-Linguagem-Programacao-Kotlin-DIO
- Aprendendo a linguagem Kotlin
+Curso da linguagem Kotlin da DIO
